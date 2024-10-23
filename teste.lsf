@@ -1,0 +1,5 @@
+clear;
+clc;
+points = 200;
+taper_x = [-5.5: 0: 0.5];
+print(taper_x)
