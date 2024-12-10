@@ -2,25 +2,40 @@ Ansys Lumerical 2024 R2.2 Eigenmode Expansion Solver Version 7.24.3902 (Windows 
  expires (month/day/year): Permanent
 using config file: Ansys Licensing set with ANSYSLMD_LICENSE_FILE
 license host: 1055@melicense.embedded.ufcg.edu.br
-current time: ter nov 26 16:22:14 2024
+current time: ter dez 10 12:11:47 2024
 Running on host: DESKTOP-P6US4U1
 All processes are communicating and ready to proceed to simulation...
-Running lms file: C:\Program Files\Lumerical\v242\bin\eme-engine.exe -t 24 -remote -shared-solve-license QU5TWVNfTElDRU5TSU5HX0NPTlRFWFRfREFUQT08QU5TWVNfTElDRU5TSU5HX0NPTlRFWFRfREFUQT48SUQ+ZTRiOGEzMDYtMTRmZi00ODEyLTg4OTctM2E3ZDg5NTNhYTZiPC9JRD48VFlQRT5BUFBfREVGSU5FRDwvVFlQRT48TkFNRT5sdW1fc3RhbmRhcmRfc29sdmVfc2hhcmU8L05BTUU+PEhBTkRMRVI+NDk4NDBAREVTS1RPUC1QNlVTNFUxPC9IQU5ETEVSPjwvQU5TWVNfTElDRU5TSU5HX0NPTlRFWFRfREFUQT4K C:/Users/PC/Documents/Photonics/Edge-coupler/otimizacao.lms
+Running lms file: C:\Program Files\Lumerical\v242\bin\eme-engine.exe -t 24 -remote -shared-solve-license QU5TWVNfTElDRU5TSU5HX0NPTlRFWFRfREFUQT08QU5TWVNfTElDRU5TSU5HX0NPTlRFWFRfREFUQT48SUQ+NTNlMWQyZDItMzRiMC00YzE0LThhZjktZDJhZmE2MjZhYzUyPC9JRD48VFlQRT5BUFBfREVGSU5FRDwvVFlQRT48TkFNRT5sdW1fc3RhbmRhcmRfc29sdmVfc2hhcmU8L05BTUU+PEhBTkRMRVI+NDk4MjJAREVTS1RPUC1QNlVTNFUxPC9IQU5ETEVSPjwvQU5TWVNfTElDRU5TSU5HX0NPTlRFWFRfREFUQT4K C:/Users/PC/Documents/Photonics/Edge-coupler/otimizacao.lms
 All processes are communicating and ready to proceed to simulation...
 Running MODE Simulation
 Starting simulation
 Starting meshing
-Simulation size in gridpoints: 1 x 121 x 120
+Simulation size in gridpoints: 1 x 121 x 170
 Refined 0 mesh cells (0.000000%)
 Completed meshing!
 Meshing complete in 0.000000 seconds of CPU time
 Starting meshing
-Simulation size in gridpoints: 1 x 121 x 120
+Simulation size in gridpoints: 1 x 121 x 170
 Refined 0 mesh cells (0.000000%)
 Completed meshing!
 Meshing complete in 0.000000 seconds of CPU time
 Starting meshing
-Simulation size in gridpoints: 1 x 121 x 120
+Simulation size in gridpoints: 1 x 121 x 170
+Refined 0 mesh cells (0.000000%)
+Completed meshing!
+Meshing complete in 0.000000 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 121 x 170
+Refined 0 mesh cells (0.000000%)
+Completed meshing!
+Meshing complete in 0.000000 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 121 x 170
+Refined 0 mesh cells (0.000000%)
+Completed meshing!
+Meshing complete in 0.000000 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 121 x 170
 Refined 0 mesh cells (0.000000%)
 Completed meshing!
 Meshing complete in 0.000000 seconds of CPU time
